@@ -1,5 +1,5 @@
 # local-library
-A Local Library website written in Express (Node.js). The goal of this project was to learn and understand the fundementals of express and node.js. This project is meant to replicate a system that a library would use to keep track of which books they have available, as well as any books that are currently checked our or on loan.
+A Local Library website written in Express (Node.js). The goal of this project was to learn and understand the fundementals of express and node.js. This project is meant to replicate a system that a library would use to keep track of which books they have available, as well as any books that are currently checked out or on loan.
 This project could easily be converted to be used in a private setting in order to keep track of the books you have in your own library whether that be digital(kindle, etc) or physical(hardcover, comics, etc). 
 
 ## Setup
